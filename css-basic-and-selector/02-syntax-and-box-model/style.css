@@ -1,0 +1,19 @@
+body{
+    padding: 20px;
+    background-color: #FFE3BB;
+}
+.container{
+    background-color: aliceblue;
+    border: #03A6A1;
+}
+.margin{
+    background-color: #FFA673;
+    margin: 3rem 2rem;
+}
+.padding{
+    background-color: #03A6A1;
+    padding: 2rem 1rem;
+}
+.hero{
+    border: 2px solid black;
+}
